@@ -10,13 +10,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist richkay/yii2-richtheme "*"
+composer require rich/yii2-richtheme:dev-master
 ```
 
 or add
 
 ```
-"richkay/yii2-richtheme": "*"
+"rich/yii2-richtheme":"dev-master"
 ```
 
 to the require section of your `composer.json` file.
